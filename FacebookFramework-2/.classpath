@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/software files/software for selenium version/Apache poi all jar files/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/software files/software for selenium version/Apache poi all jar files/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/software files/software for selenium version/Apache poi all jar files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/software files/software for selenium version/Apache poi all jar files/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="D:/software files/software for selenium version/Apache poi all jar files/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/software files/software for selenium version/Apache poi all jar files/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/software files/software for selenium version/Apache poi all jar files/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/software files/software for selenium version/Apache poi all jar files/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/software files/software for selenium version/Apache poi all jar files/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/software files/software for selenium version/Apache poi all jar files/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/software files/software for selenium version/Apache poi all jar files/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/software files/software for selenium version/Apache poi all jar files/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/software files/software for selenium version/Apache poi all jar files/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/software files/software for selenium version/selenium-server-standalone-3.11.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[start execute]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18362" started-at="2020-07-28T14:42:26Z" finished-at="2020-07-28T14:42:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18362" started-at="2020-07-28T14:42:26Z" finished-at="2020-07-28T14:42:44Z">
+      <class name="test.testclassfb">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:test.testclassfb@7a765367]" name="openbrowser" is-config="true" duration-ms="14230" started-at="2020-07-28T14:42:26Z" finished-at="2020-07-28T14:42:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="start()[pri:0, instance:test.testclassfb@7a765367]" name="start" is-config="true" duration-ms="1" started-at="2020-07-28T14:42:40Z" finished-at="2020-07-28T14:42:40Z">
+          <reporter-output>
+            <line>
+              <![CDATA[start execute]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="facebook()[pri:0, instance:test.testclassfb@7a765367]" name="facebook" duration-ms="4076" started-at="2020-07-28T14:42:40Z" finished-at="2020-07-28T14:42:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebook -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:test.testclassfb@7a765367]" name="closebrowser" is-config="true" duration-ms="0" started-at="2020-07-28T14:42:44Z" finished-at="2020-07-28T14:42:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- test.testclassfb -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
